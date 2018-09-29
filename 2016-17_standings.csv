@@ -1,4 +1,4 @@
-stDate,teamAbbr,rank,rankOrd,gameWon,gameLost,stk,stkType,stkTot,gameBack,ptsFor,ptsAgnst,homeWin,homeLoss,awayWin,awayLoss,confWin,confLoss,lastFive,lastTen,gamePlay,ptsScore,ptsAllow,ptsDiff,opptGmPlay,opptGmWon,opptOpptGmPlay,opptOpptGmWon,sos,relPercIndx,mov,srs,pwPerc,pythPerc13.91,wpyth13.91,lpyth13.91,pythPerc16.5,wpyth16.5,lpyth16.5
+stDate,teamAbbr,rank,rankOrd,gameWon,gameLost,stk,stkType,stkTot,gameBack,ptsFor,ptsAgnst,homeWin,homeLoss,awayWin,awayLoss,confWin,confLoss,lastFive,lastTen,gamePlay,ptsScore,ptsAllow,ptsDiff,opptGmPlay,opptGmWon,opptOpptGmPlay,opptOpptGmWon,sos,relPercIndx,mov,srs,pwPerc,pythPerc1391,wpyth1391,lpyth1391,pythPerc165,wpyth165,lpyth165
 2016-10-24,ATL,1,1st,0,0,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,82,0,0,82
 2016-10-24,BKN,1,1st,0,0,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,82,0,0,82
 2016-10-24,BOS,1,1st,0,0,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,82,0,0,82
